@@ -1,0 +1,59 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "location": "Nanded",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "location": "Delhi",
+      "rating": "4",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "id": 3,
+      "name": "W B Restuarant",
+      "location": "Mumbai",
+      "rating": "4.5",
+      "email": "wbrestuarant@test.com"
+    },
+    {
+      "id": 4,
+      "name": "BBQ Nation",
+      "location": "Pune",
+      "rating": "3.5",
+      "email": "bbqnation@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "location": "Aurangabad",
+      "rating": "3.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "id": 6,
+      "name": "Aslam Restuarant",
+      "location": "Nanded",
+      "rating": "4.7",
+      "email": "aslamrestuaran@test.com"
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "rating": "4.3",
+      "location": "pune",
+      "id": 9
+    }
+  ]
+}
